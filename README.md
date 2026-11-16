@@ -6,8 +6,7 @@ An evolutionary algorithm framework for optimizing drone morphology and control.
 
 You can watch the simulated resulting best evolved designs against the standard symmetric hexacopter designs. Simulations runnning with trained models in the realistic physical environment.
 
-YouTube playlist:
-`https://youtube.com/playlist?list=PLd8hLBpLCABc&si=_HycI4ZZD59zE9Cb`
+[YouTube playlist](https://youtube.com/playlist?list=PLd8hLBpLCABc&si=_HycI4ZZD59zE9Cb)
 
 ## Installation
 
